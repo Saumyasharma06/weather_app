@@ -1,0 +1,35 @@
+.search{
+    border-radius:20px ;
+    height: 30px;
+    width: 220px;
+    color: rgb(67, 85, 133);
+    position: absolute;
+    left:50px;
+    top:20px;
+}
+.card{
+    height: 400px;
+    width: 350px;
+    position: relative;
+    top: 150px; 
+    left: 500px;
+    background-color:rgb(58, 190, 249);
+    border-radius: 20px;
+}
+.cityname{
+    position: absolute;
+    top:60px;
+    left:110px;
+}
+.image{
+    position: absolute;
+    top:100px;
+    left:110px;
+}
+.temp{
+    position: absolute;
+    top:100px;
+    left:110px;
+    font-size: 80px;
+    font-weight: bolder;
+}
